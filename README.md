@@ -18,7 +18,7 @@ What things you need to install the software
 
 - run terminal/cmd and run the command
 ```
-cd /apliaction folder
+cd /aplication folder
 NPM Install
 ```
 
