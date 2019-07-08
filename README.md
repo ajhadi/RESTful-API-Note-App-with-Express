@@ -16,6 +16,10 @@ What things you need to install the software
 
 - Clone this Repo
 
+- Create a database with the name *note* 
+
+- import sql file  /sql/note.sql to note database
+
 - run terminal/cmd and run the command
 ```
 cd /aplication folder
